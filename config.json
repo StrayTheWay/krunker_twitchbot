@@ -1,0 +1,6 @@
+{
+  "twitch_autolink": false,
+  "channel_name": ["CHANNELNAME"],
+  "bot_username": "BOTUSERNAME",
+  "oauth_token": "BOTOAUTHTOKEN"
+}
