@@ -99,7 +99,7 @@ if(twitch_autolink == true){
 			if(chatter.message.toLowerCase() === 'link' || chatter.message.toLowerCase() === '!link') {
 				Bot.say(gameWindow.webContents.getURL());
 			}else if(chatter.message.toLowerCase() === '!wutlul'){
-				Bot.say("You can find the source code for this bot on Github under StrayTheWay...");
+				Bot.say("You can download the twitch bot for krunker here https://github.com/StrayTheWay/krunker_twitchbot ;)");
 			}
 		})
 	}; initTwitch();	
