@@ -20,7 +20,7 @@ It is super simple just follow the 4 steps below if you have any issues please c
 -	**Step 3: Place the app.asar and config.json file inside the resources directory**
 	>If you can't figure this part out please follow the video guide then continue.
 
--	**Step 5: Edit the config.json and enable the twitch bot as well as setting up your bot account**
+-	**Step 4: Edit the config.json and enable the twitch bot as well as setting up your bot account**
 	>This is a big step you need to setup another twitch account for your bot account and do /mod BOTACCOUNT then goto [https://twitchapps.com/tmi/](https://twitchapps.com/tmi/) and get your oauth token for the config file.
 	
 # What do I do with the config.json again?
