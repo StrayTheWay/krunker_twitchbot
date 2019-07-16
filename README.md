@@ -35,3 +35,5 @@ It is super simple just follow the 4 steps below if you have any issues please c
 # Video Guide Below
 
 **Please see the video below if you are having any trouble...**
+
+[![YOUTUBE VIDEO](https://img.youtube.com/vi/lOJv7tXAW4I/0.jpg)](https://www.youtube.com/watch?v=lOJv7tXAW4I)
